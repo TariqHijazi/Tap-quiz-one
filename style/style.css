@@ -210,13 +210,14 @@ footer .component .detail {
     flex-direction: column-reverse;
   }
   section.Body .welcome .details {
+    font-size: 0.8rem;
     margin: 0 0 1rem 1rem;
   }
   .contact {
     flex-direction: column;
     padding-left: 1rem;
   }
-  header .text p {
-  font-size: 20px;
-}
+ header .text p {
+    font-size: .8rem;
+  }
 }
