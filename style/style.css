@@ -54,7 +54,7 @@ header .text {
 }
 
 header .text p {
-  font-size: 0.3rem;
+  font-size: .3rem;
 }
 
 .img {
@@ -215,5 +215,8 @@ footer .component .detail {
   .contact {
     flex-direction: column;
     padding-left: 1rem;
+  }
+  header .text p {
+    font-size: .8rem;
   }
 }
