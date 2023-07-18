@@ -179,6 +179,7 @@ footer .component .detail {
   }
   section.Body {
     padding: 0;
+     height: 25vh;
   }
   section.Body .text p {
     font-size: 1.2rem;
