@@ -158,7 +158,7 @@ footer .component .detail {
 
 @media only screen and (max-width: 500px) {
   .container {
-    width: 236px;
+    width: 300px;
     height: 85vh;
     background-color: #fff;
     z-index: 1;
@@ -197,7 +197,7 @@ footer .component .detail {
   }
   .img,
   img {
-    width: 163px;
+    width: 200px;
     height: 22vh;
     margin-left: 0rem;
     border-radius: 10000px;
@@ -218,6 +218,9 @@ footer .component .detail {
     flex-direction: column;
     padding-left: 1rem;
   }
+   header .text  {
+          width: 186px;
+    }
  header .text p {
     font-size: .8rem;
   }
