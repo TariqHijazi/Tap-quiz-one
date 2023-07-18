@@ -216,4 +216,7 @@ footer .component .detail {
     flex-direction: column;
     padding-left: 1rem;
   }
+  header .text p {
+  font-size: 0.8rem;
+}
 }
