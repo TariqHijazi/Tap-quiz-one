@@ -186,7 +186,6 @@ footer .component .detail {
 
   section.Body {
     padding: 0;
-    height: 25vh;
   }
 
   section.Body .text p {
@@ -208,8 +207,7 @@ footer .component .detail {
 
   .img,
   img {
-    width: 200px;
-    /*//sas */
+    width: 163px;
     height: 22vh;
     margin-left: 0rem;
     border-radius: 10000px;
@@ -233,13 +231,5 @@ footer .component .detail {
   .contact {
     flex-direction: column;
     padding-left: 1rem;
-  }
-
-  header .text p {
-    font-size: 0.8rem;
-  }
-
-  header .text {
-    width: 186px;
   }
 }
